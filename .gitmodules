@@ -4,3 +4,9 @@
 [submodule "SDL_image"]
 	path = SDL_image
 	url = https://github.com/libsdl-org/SDL_image.git
+[submodule "nativefiledialog"]
+	path = nativefiledialog
+	url = https://github.com/mlabbe/nativefiledialog.git
+[submodule "photo_filter/external/imgui"]
+	path = photo_filter/external/imgui
+	url = https://github.com/ocornut/imgui.git
